@@ -1,1 +1,1 @@
-Olá, meu nome é Allan Mori e este é meu primeiro projeto na linguagem de programação Python. Desenvolvi um jogo de Forca e um jogo de Adivinhação de um número aletório com a ajuda dos cursos da "Formação Python do site Alura.
+Olá, meu nome é Allan Mori e este é meu primeiro projeto na linguagem de programação Python. Desenvolvi um jogo de Forca e um jogo de Adivinhação de um número aletório com a ajuda dos cursos da "Formação Python" do site Alura.
